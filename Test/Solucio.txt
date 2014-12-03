@@ -1,5 +1,80 @@
-﻿Solució – your PUBLIC KEY HERE
+﻿Solució – 819551
 
 Respostes
 
-1.- 
+1.- Exercici 1.
+1.	Identificació i avaluació de la oportunitat ( saber descobrir la necessitat d´un producte o d´una empresa)
+1.	Desenvolupament de un pla de negocis (forma en que es dirigirà la nova empesa)
+2.	Prototip (una primera versió del producte)
+3.	Avaluació del projecte ( recordar que el producte és para i per els consumidors, hem de mimar-lo)
+4.	Financiació (triar l opció que millor s´adapta)
+5.	Constitució de l´empresa i llançament
+
+
+Exercici 2.
+Exercici 3.
+Per protegir el nostre negoci podem patentar el nostre producte o idea, també podem fer trademark amb el logo, nom comercial… i si també hem de protegir drets d´autor o propietat intel•lectual, doncs amb un copyright
+Exercici 4.
+L’anàlisi Pest ens permet entendre el creixement o decreixement d´un mercat, ens permet mesurar negocis. Els factors analitzats als Pest son externs i generalment fora del control de l´organització, Una de les utilitats més grans del Pest a part de veure els factors externs que poden afectar a l´empresa, seria la facilitat d´intercanvi d´ idees sobre els factors que estan fora del control de l ´empresa, però que si que la poden afectar
+P	POLITICAL FACTORS
+E	ECONOMIC FACTORS
+S	SOCIOCULTURAL FACTORS
+T	TECHNOLOGICAL FACTORS
+Exercici 5. (Pensava q s´havien de descriure les 3, no ho havia vist be)
+Brainstorming o pluja d´idees  es una tècnica de generació d´idees que ens porta a trencar limitacions habituals del pensament ( al no jutjar) i produir un conjunt d´idees per triar. Aquesta tècnica es útil per problemes específics i no tant per generalistes, sobretot per quan necessitem idees bones, noves i fresques.
+Scamper És una tècnica de verificació amb una checlklist, basada en el poder de la pregunta com element per fomentar el pensament divergent i la capacitat creativa. Son 7 preguntes que ens hem de formular davant del problema per trobar possibles solucions.
+Substituir coses,llocs,procediments,idees…
+Combinar temes,conceptes,idees..
+Adaptar idees de altres contextos o situacions, temps,persones,idees…
+Modificar, afegir una idea,concepte,tema…
+Donar altres usos a les coses, objectes..
+Eliminar o reduir al mínim elements,idees,conceptes…
+Reordenar situacions,elements,procesos…
+Joc del sis barrets (Six Thinking Hats),  Es tracta d´una tècnica grupal per intentar veure les coses des de angles diferents. Cada barret proporciona un rol que ens converteix en actors. S´ha d´intentar que sigui un rol diferent al nostre propi i des de un punt de vista diferent al habitual intentar explorar el tema,dessenvolupar possibilitats i seleccionar una solució.
+Blanc: la cerca d’informació(dades, neutre)
+Vermell: Instint, emocions, cap justificació
+Negre: Precaució (lògica, conservador)
+Groc: Optimista
+Verd: Creatiu i explorador
+Blau: Control de la sessió
+
+Exercici 6.
+Model de negoci es una visió en conjunt de tot  el que és teu projecte, negoci.. ens descriu les bases sobre les quals una empresa o projecte crea, proporciona i capta valor (disposició del consumidor pagar pel nostre producte, idea…)
+Canvas:	1.	Segmentació de clients
+		2.	Proposició de valor
+		3.	Canals
+		4.	relació amb els clients
+		5.	Font d’ingressos
+		6.	Recursos clau
+		7.	Activitats clau
+		8.	Associacions clau/socis
+		9.	Estructura de costos
+
+Blocs menys rellevants al canvas : En el cas de que no necessitéssim socis ni inversors podríem suprimir el associacions clau/socis
+Conceptes relatius a proposició de valor: propostes basades en les necessitats detectades en el client. El valor del nostre producte és la resposta a aquestes necessitats, és la raó per la qual el client ens compra.
+segmentació de clients: Estem obligats a saber a quins clients volem vendre i quines necessitats tenen.
+Exercici 7.
+Customer research
+Exercici 8.
+Màrqueting mix és el conjunt  de elements amb els que una empresa o producte aconseguirà influenciar en la decisió de compra del client. Des de el punt de vista del diàleg amb el client parlaríem de les 4 c´s.
+1.	Consumidor o client no fabricar un producte sense saber les necessitats del públic. L´objectiu del producte es satisfer al client.
+2.	Costos, el preu és molt important però la satisfacció al adquirir un producte a vegades és mes gran. Marcar la diferencia amb un servei postvenda a vegades pot ser decisiu.
+3.	Conveniència l´ambient adequat per la compra d´un producte o servei pot ser decisiu per que es realitzi la compra
+4.	Comunicació hem de transmetre el missatge al major numero de clients amb el menor cost. La comunicació informa i persuadeix.
+
+Exercici9.
+
+Si tenim competència vol dir que no és un nou mercat, amb lo qual el client ja esta educat, ens costarà molt menys arribar a ell. Per un altre banda es sinònim de que hi ha una necessitat real del producte, per lo tant una sortida. També ens indica que hi han recursos tant de proveïdors com de personal format. També podem estudiar a la nostra competència i aprendre dels seus errors.
+
+Positiva o Negativa, com tot a enginyeria, depèn. El fet de que no hi hagi mercat, és perillós, per una banda pot ser que un no hi hagi mercat hi anem directes al desastre, o també ens podríem trobar que fos un producte molt innovador i per això no hi ha competència, en aquest cas ens costaria més treure´l al mercat, però no tindria perquè tenir problemes.
+
+Exercici10.
+
+Sempre hem de controlar el punt d´equilibri, el necessitem per saber a on som. Si no sabem el mínim nivell de vendes necessaris per recuperar els costos, possiblement no podrem subsistir a acabar la nostra aplicació mòbil.
+
+
+
+
+
+
+

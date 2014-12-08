@@ -1,5 +1,52 @@
-﻿Solució – your PUBLIC KEY HERE
+﻿Solució – 819551
 
 Respostes
 
-1.- 
+https://github.com/AnaGarciaMingorance/819551.git
+Exercici 1.
+Disseny, implementació i comercialització de motxilles interactives. 
+Motxilles de disseny actual i modern amb incorporació de un patinet en el que el podrà pujar, sistema informàtic amb una implementació de un joc que bonificarà al nen segons el km caminats amb la motxilla, com pujar de nivell en el joc, aconseguir personatges nous, roba pels seus personatges.. El  sistema informàtic incorporarà un sistema de geolocalització amb el que els nens podran veure si els seus amics amb motxilles interactives estan a prop, amb aquest mateix sistema de geolocalització els pares podran veure via web per on estan els seus fills amb les motxilles. El sistema també disposarà de una línia de telèfon mòbil, per poder trucar o ser trucats a uns números de telèfon predeterminats
+Compra de motxilles i hardware en països asiàtics, implementació de software per nosaltres.
+
+Exercici 2.
+La innovació del producte fet per gent jove, per a gent jove, conèixer les seves necessitats.
+Formar part del mercat tecnològic en un moment en que els consumidors estan educats per aquest mercat.
+Ser capaços de adaptar-nos als canvis del mercat, ja que son nosaltres els programadors del software
+Exercici 3.
+Millores en la salut dels nens, ja que al caminar reduïm problemes de sedentarisme, obesitat..
+Millores en les relació socials dels nens, la motxilla serà l´excusa per tenir converses amb altres nens.
+Major autonomia, però amb control. Això potenciarà la confiança del nen.
+Millores medi ambientals, ja que farem servir menys els cotxes per portar els nens a l´escola.
+Millores en la salut dels pares, al disposar de més temps i reduir el nivell d´ansietat per saber on son els seus fills.
+
+Exercici 4. 
+
+Segons el nostre Bussines Plan, hem fet una planificació de doblar les vendes cada any.
+Creixement intern 
+Augmentar la participació de mercat
+Incrementar les quantitats venudes
+Agregar característiques noves a la motxilla
+Expansió geogràfica
+Exercici 5.
+El nombre d´estudiants no universitaris matriculats en el curs 2013-214 és de 8.087.347.
+Parlem només de Espanya. Segons la Unesco a nivell mundial podrien ser uns 150 milions d estudiants.
+Exercici 6.
+Per saber identificar el que desitja el nostre client.
+Per oferir un producte d´innovació, aparellant la necessitat i la tecnologia.
+Perquè ens concentrem en atendre les necessitats  abans, durant i després.
+Perquè tindrà totes les comoditats a l hora de comprar-lo, serà fàcil d’adquirir, d’usar i de mantenir.
+Exercici 7.
+Començaríem adaptant unes motxilles del mercat amb una Tablet existent i configurant  unes quantes opcions, faríem un testeig i els hi donaríem a uns 10 nens, que ens donessin les seves opinions.
+Després crearíem una pagina web, per anar educant al nostre públic, amb unes quantes imatges i sondejant.
+La tercera fase de producció seria adquirir motxilles ja fabricades e incorporar lis el hardware nosaltres. L ´implementació del software, seria atractiva però no amb totes les opcions sino nomes les bàsiques.
+Exercici 8.
+Al ser una empresa tecnològica i d´un producte nou hauríem de fer campanyes de màrqueting a nivell de les xarxes socials, per captar l´atenció del pares primer, amb lo qual hauríem de invertit a nivell de Seo i Adwords. Després ens publicitariem en campanyes televisives a nivell nacional en horari infantil, sobre tot a l´hora d´esmorzar de 7.30 a 8.30.
+Campanyes publicitàries a les sortides de les escoles, començar a regalar cromos dels personatges del nostre joc.
+Exercici 9.
+Pares treballadors de classe social media amb coneixements informàtics a nivell d usuari, que viuen a la ciutat a menys de 3 km de la escola del seus fills.
+
+Exercici 10.
+ Grups de discussió (focus group), he fet una reunió de 10 persones amb diferents perfils i he plantejat el tema, hi ha hagut una discussió sobre diferents punts de vista,
+També he fet entrevistes personals a quatre persones.
+
+

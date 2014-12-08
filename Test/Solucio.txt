@@ -2,7 +2,8 @@
 
 Respostes
 
-1.- Exercici 1.
+https://github.com/AnaGarciaMingorance/819551.git
+Exercici 1.
 1.	Identificació i avaluació de la oportunitat ( saber descobrir la necessitat d´un producte o d´una empresa)
 1.	Desenvolupament de un pla de negocis (forma en que es dirigirà la nova empesa)
 2.	Prototip (una primera versió del producte)
@@ -12,6 +13,7 @@ Respostes
 
 
 Exercici 2.
+Estem parlant de la introducció al mercat de un producte o servei tecnològicament nou( amb unes característiques o usos diferents als existents en el mercat) També podríem parlar de innovació respecte a un producte quan aportem millores significatives ja que ha sigut millorat o perfeccionat.
 Exercici 3.
 Per protegir el nostre negoci podem patentar el nostre producte o idea, també podem fer trademark amb el logo, nom comercial… i si també hem de protegir drets d´autor o propietat intel•lectual, doncs amb un copyright
 Exercici 4.
@@ -53,8 +55,8 @@ Canvas:	1.	Segmentació de clients
 Blocs menys rellevants al canvas : En el cas de que no necessitéssim socis ni inversors podríem suprimir el associacions clau/socis
 Conceptes relatius a proposició de valor: propostes basades en les necessitats detectades en el client. El valor del nostre producte és la resposta a aquestes necessitats, és la raó per la qual el client ens compra.
 segmentació de clients: Estem obligats a saber a quins clients volem vendre i quines necessitats tenen.
-Exercici 7.
-Customer research
+Exercici 7.	
+És importantíssim conèixer els nostres clients actuals i potencials. De forma que al conèixer els gustos i preferències dels clients, així com la seva ubicació, classe social, educació, ocupació i altres aspectes, podrem oferir-les els productes desitjats un preu adequat amb això aconseguirem augmentar les vendes i mantenir la seva satisfacció, acabant convertint-lo en un client lleial.
 Exercici 8.
 Màrqueting mix és el conjunt  de elements amb els que una empresa o producte aconseguirà influenciar en la decisió de compra del client. Des de el punt de vista del diàleg amb el client parlaríem de les 4 c´s.
 1.	Consumidor o client no fabricar un producte sense saber les necessitats del públic. L´objectiu del producte es satisfer al client.
@@ -70,8 +72,7 @@ Positiva o Negativa, com tot a enginyeria, depèn. El fet de que no hi hagi merc
 
 Exercici10.
 
-Sempre hem de controlar el punt d´equilibri, el necessitem per saber a on som. Si no sabem el mínim nivell de vendes necessaris per recuperar els costos, possiblement no podrem subsistir a acabar la nostra aplicació mòbil.
-
+Sempre hem de controlar el punt d´equilibri, el necessitem per saber a on som. Si no sabem el mínim nivell de vendes necessaris per recuperar els costos, possiblement no podrem subsistir a acabar la nostra aplicació mòbil
 
 
 
